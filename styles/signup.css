@@ -1,0 +1,36 @@
+input{
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(200,200,200);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  font-size: 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.input1{
+  width: 148px;
+}
+.input2{
+  width: 148px;
+}
+.input3{
+  width: 334px;
+  display: block;
+}
+.signup-btn{
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border:none;
+  border-radius: 8px;
+  width: 368px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 16px;
+  font-weight: bold;
+  font-style: bold;
+  margin-top: 10px;
+  font-size: 15px;
+}
